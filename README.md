@@ -38,4 +38,4 @@ I am actively looking for **joint projects** and competitions to apply my skills
 You can connect with me via the following channels:
 
 * **Gmail 📧:** [phamminhman1312005@gmail.com](mailto:phamminhman1312005@gmail.com)
-* **LinkedIn 💬:** [https://www.linkedin.com/in/m%E1%BA%A3n-ph%E1%BA%A1m-47b493311/]([https://www.linkedin.com/in/m%E1%BA%A3n-ph%E1%BA%A1m-47b493311/](https://www.linkedin.com/in/m%E1%BA%ABn-ph%E1%BA%A1m-47b493311/))
+* **LinkedIn 💬:** [https://www.linkedin.com/in/m%E1%BA%ABn-ph%E1%BA%A1m-47b493311/](https://www.linkedin.com/in/m%E1%BA%ABn-ph%E1%BA%A1m-47b493311/)
