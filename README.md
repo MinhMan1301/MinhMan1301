@@ -1,4 +1,4 @@
-# Hi there, I'm [Mẫn] 👋
+# Hi there, I'm Mẫn 👋
 
 ## 🎓 Aspiring AI Engineer & Computer Science Student
 
@@ -37,12 +37,12 @@ I am actively looking for **joint projects** and competitions to apply my skills
 
 You can connect with me via the following channels:
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin](https://www.linkedin.com/in/m%E1%BA%ABn-ph%E1%BA%A1m-47b493311/))]([Mẫn Phạm]) 
-[![Email](phamminhman1312005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-M%E1%BA%ABn%20Ph%E1%BA%A1m-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/m%E1%BA%A3n-ph%E1%BA%A1m-47b493311/) 
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:phamminhman1312005@gmail.com)
 
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=[ĐIỀN_USERNAME_CỦA_BẠN_VÀO_ĐÂY]&show_icons=true&theme=buefy" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ĐIỀN_USERNAME_CỦA_BẠN_VÀO_ĐÂY]&layout=compact&theme=buefy" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=[ĐIỀN_USERNAME_CỦA_BẠN_VÀO_ĐÂY]&show_icons=true&theme=buefy" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ĐIỀN_USERNAME_CỦA_BẠN_VÀO_ĐÂY]&layout=compact&theme=buefy" alt="Top Languages" />
 </p>
