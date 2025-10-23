@@ -43,6 +43,6 @@ You can connect with me via the following channels:
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=[ĐIỀN_USERNAME_CỦA_BẠN_VÀO_ĐÂY]&show_icons=true&theme=buefy" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ĐIỀN_USERNAME_CỦA_BẠN_VÀO_ĐÂY]&layout=compact&theme=buefy" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=[MinhMan1301]&show_icons=true&theme=buefy" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[MinhMan1301]&layout=compact&theme=buefy" alt="Top Languages" />
 </p>
